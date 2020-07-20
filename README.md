@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://github-readme-stats.vercel.app/api？username = mydal
+https://github-readme-stats.vercel.app/api/pin/？username = mydal＆repo = github-readme-stats
